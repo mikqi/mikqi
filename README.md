@@ -4,6 +4,6 @@ Hi. I'm Rivki, but you can call me Ikki(read: e'ki)⏤Frontend Engineer 🧑🏻
 
 - 🧠 Growth and beginner's mindset also curiousity
 - 🌱 I’m currently learning about Design thinking
-- 💬 Ask me about **Javascript**, ***Development**, ***Testing**, ***Design Thinking**, ***Design**
+- 💬 Ask me about **Javascript, Development, Testing, Design, Design Thinking**
 - 📫 reach me [https://this.rivki.id](https://this.rivki.id)
 - 🌏 I'm mostly active in Facebook Developer Circle Jakarta
