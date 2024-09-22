@@ -1,9 +1,27 @@
-## Ikki ⏤ @mikqi 👋
+## Muhammad Rivki ⏤ @mikqi 👋
 
-Hi. I'm Rivki, but you can call me Ikki(read: e'ki)⏤Frontend Engineer 🧑🏻‍💻. Previously work in Bukalapak as a Frontend Engineer to help Seller get better experience using *[Seller Center](https://seller.bukalapak.com)* & also help engineer/designer built reusable and maintainable components. I live in South Jakarta. In my spare time I do some research with new technology and active in Facebook Developer Circle Jakarta community. 🙌 I'm a huge fan of Monster Hunter games, 🎮 I play on my Nintendo Switch or PC if I get bored with coding.
+Hey, I’m **Rivki** (you can call me **Ikki** ). I’m a **Senior Frontend Engineer** who loves building fast, scalable, and accessible web apps. Currently, I’m working at **Govtech Edu Indonesia**, improving digital solutions for education.
 
-- 🧠 Growth and beginner's mindset also curiousity
-- 🌱 I’m currently learning about Design thinking
-- 💬 Ask me about **Javascript, Development, Testing, Design, Design Thinking**
-- 📫 reach me [https://this.rivki.id](https://this.rivki.id)
-- 🌏 I'm mostly active in Facebook Developer Circle Jakarta
+🚀 Recently, I’ve been focused on improving **Developer Experience (DX)** by implementing strategies that make development smoother and more efficient for engineering teams, helping them build and deploy better products, faster.
+
+### What I do:
+
+- 🛠 Build **scalable** and **maintainable** frontend architectures.
+- 💡 Improve **developer workflows** to enhance productivity and efficiency.
+- ⚡ Optimize **performance** for fast, responsive web applications.
+- 🌍 Focus on **accessibility**, making sure that everyone has equal access to digital experiences.
+
+### Tools I love:
+
+- 💻 **JavaScript** | **TypeScript** | **CSS Modules**
+- ⚛️ **React.js** | **Vue.js** | **Next.js**
+- 🚀 **Node.js** | **Express.js**
+- 📦 **MongoDB** | **MySQL**
+- 🧪 **Playwright** | **Storybook** | **CI/CD** | **Docker**
+
+### Reach out:
+
+- 🌐 Personal website: [rivki.dev](https://rivki.dev)
+- 🔗 LinkedIn: [Muhammad Rivki](https://www.linkedin.com/in/muhammadrivki/)
+
+When I'm not coding, you’ll probably find me 🎮 playing **Monster Hunter** or exploring new tech just for fun.
