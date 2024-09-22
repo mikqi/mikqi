@@ -24,7 +24,7 @@ Hey, I’m **Rivki** (call me **Ikki**). I’m a **Senior Frontend Engineer** wh
 - 🌐 Personal website: [rivki.dev](https://rivki.dev)
 - 🔗 LinkedIn: [Muhammad Rivki](https://www.linkedin.com/in/muhammadrivki/)
 
-## Technologies I've worked with:
+### Technologies I've worked with:
 
 <p align="left">
   <!-- Languages -->
