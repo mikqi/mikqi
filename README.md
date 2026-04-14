@@ -2,7 +2,13 @@
 
 **Senior Frontend Engineer** focused on building fast, scalable, and accessible products.
 
-I currently work at **Govtech Edu Indonesia**, where I help improve digital experiences that support education at scale. My sweet spot is combining strong frontend architecture with better developer experience, so teams can ship confidently and move faster.
+I currently work at **GoPay**, where I help build digital experiences at scale. My sweet spot is combining strong frontend architecture with better developer experience, so teams can ship confidently and move faster.
+
+<p align="left">
+  <a href="https://www.gopay.co.id/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/monopolies/monopolies.net/92026861bc8e64a1149e3d5e7c8de2af865cc1e3/logos/goto/gopay.svg" alt="GoPay" height="40"/>
+  </a>
+</p>
 
 ## What I focus on
 
@@ -82,7 +88,7 @@ I currently work at **Govtech Edu Indonesia**, where I help improve digital expe
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
     </a>
     <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-      <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/vitest-dev/vitest/main/docs/public/logo.svg" alt="vitest" width="40" height="40"/>
     </a>
     <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
       <img src="https://testing-library.com/img/octopus-128x128.png" alt="react testing library" width="40" height="40"/>
